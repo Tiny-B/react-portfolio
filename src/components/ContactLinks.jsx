@@ -37,12 +37,13 @@ function ContactLinks() {
 					alignItems: 'center',
 				}}
 			>
-				<h3>Education</h3>
+				<h3 style={{ marginBottom: '0' }}>Education</h3>
 				<p
 					style={{
 						borderTop: '2px solid white',
 						width: '90%',
 						fontWeight: 'Bold',
+						paddingTop: '10px',
 					}}
 				>
 					Step8Up Academy - Web Development Bootcamp
@@ -59,9 +60,10 @@ function ContactLinks() {
 						borderTop: '2px solid white',
 						width: '90%',
 						fontWeight: 'Bold',
+						paddingTop: '10px',
 					}}
 				>
-					Northcoders – Software Engineering Bootcamp
+					Northcoders - Software Engineering Bootcamp
 				</p>
 				<p style={{ margin: '0 20px' }}>
 					Newcastle, UK | Feb 2023 - May 2023 - Developed “NC News”, a SPA where
@@ -75,11 +77,12 @@ function ContactLinks() {
 						borderTop: '2px solid white',
 						width: '90%',
 						fontWeight: 'Bold',
+						paddingTop: '10px',
 					}}
 				>
 					Manchester College
 				</p>
-				<p>Maths: L2, English: L2, Business Studies: L2</p>
+				<p>Maths: Level 2, English: Level 2, Business Studies: Level 2</p>
 			</div>
 		</div>
 	);

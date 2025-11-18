@@ -4,7 +4,6 @@ function ShortCV() {
 			display: 'flex',
 			flexDirection: 'column',
 			placeItems: 'center',
-			marginTop: '20px',
 			paddingBottom: '60px',
 			width: '50%',
 			height: '80%',
