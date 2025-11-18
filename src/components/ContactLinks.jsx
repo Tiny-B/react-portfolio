@@ -50,10 +50,13 @@ function ContactLinks() {
 				</p>
 				<p style={{ margin: '0 20px' }}>
 					Newcastle, UK | Sep 2025 - Dec 2025 - Built three full-stack
-					applications in a Scrum team, using GitFlow and CI with GitHub
-					Actions. - “List Your Day” - a task manager with client-side
-					validation. - Deployed all front-ends to Netlify and back-ends to
-					Render with zero-downtime during demo week.
+					applications in a Scrum team, using{' '}
+					<span style={{ color: '#64dfc4ff' }}>GitFlow</span> and CI with{' '}
+					<span style={{ color: '#64dfc4ff' }}>GitHub Actions</span>. - “List
+					Your Day” - a task manager with client-side validation. - Deployed all
+					front-ends to <span style={{ color: '#64dfc4ff' }}>Netlify</span> and
+					back-ends to <span style={{ color: '#64dfc4ff' }}>Render</span> with
+					zero-downtime during demo week.
 				</p>
 				<p
 					style={{
@@ -68,9 +71,12 @@ function ContactLinks() {
 				<p style={{ margin: '0 20px' }}>
 					Newcastle, UK | Feb 2023 - May 2023 - Developed “NC News”, a SPA where
 					users can read, comment, and upvote articles
-					(React/Express/PostgreSQL). - Implemented unit & integration tests
-					using Jest and React Testing Library. - Hosted frontend on Netlify;
-					backend on Render.
+					<span style={{ color: '#64dfc4ff' }}>React/Express/PostgreSQL</span>.
+					- Implemented unit & integration tests using{' '}
+					<span style={{ color: '#64dfc4ff' }}>Jest</span> and{' '}
+					<span style={{ color: '#64dfc4ff' }}>React Testing Library</span>. -
+					Hosted frontend on <span style={{ color: '#64dfc4ff' }}>Netlify</span>
+					; backend on <span style={{ color: '#64dfc4ff' }}>Render</span>.
 				</p>
 				<p
 					style={{

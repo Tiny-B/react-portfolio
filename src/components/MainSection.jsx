@@ -20,6 +20,7 @@ function MainSection() {
 					alignItems: 'center',
 					gap: '20px',
 					width: '100%',
+					margin: '30px 0',
 				}}
 			>
 				<ShortCV />
